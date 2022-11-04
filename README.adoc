@@ -1,0 +1,10 @@
+= module-exercise
+
+Playing with Java module-info
+
+Contains two modules:
+
+* lib with module name: _lib.first_
+* consumer with module name: _lib.second_
+
+Module _consumer_ depends on module _lib_.
