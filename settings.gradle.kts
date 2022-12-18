@@ -1,2 +1,2 @@
 rootProject.name = "module-exercise"
-include("lib", "consumer")
+include("lib", "consumer", "metadata")
